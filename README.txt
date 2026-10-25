@@ -1,0 +1,1 @@
+Upload the files in this folder to the root of your existing GitHub Pages repository. This update adds a New Construction / Resale Homes choice to Find a Home; other sections remain unchanged. Live property inventory is not connected. Test on phone and desktop.
