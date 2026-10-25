@@ -1,0 +1,1 @@
+Fixed buyer lead form: native POST to https://formsubmit.app/f/h4qb3tq8qf. Upload index.html to your GitHub Pages repository. Test from published HTTPS site. FormSubmit dashboard notifications/Sheets are configured in your FormSubmit account. No live submission was performed.
