@@ -1,1 +1,0 @@
-Houston-focused real estate landing page for Brittany Glaze. Upload the files in this ZIP to the root of the existing GitHub Pages repository. The Houston map uses an OpenStreetMap iframe and requires internet connectivity. Neighborhood buttons open OpenStreetMap searches. No live MLS listings are provided. Complete Texas brokerage and TREC disclosures before public promotion.
